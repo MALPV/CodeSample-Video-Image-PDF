@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Video-Image-PDF.iml" filepath="$PROJECT_DIR$/.idea/modules/Video-Image-PDF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video-Image-PDF.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
