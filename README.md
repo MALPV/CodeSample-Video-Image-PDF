@@ -10,9 +10,9 @@ _-PDF_
 
 ## ScreenShot 📲
 
-![Viewer Video](https://github.com/MALPV/CodeSample-Video-Image-PDF/blob/main/screenshots/video_viewer.png)
-![Viewer Image](https://github.com/MALPV/CodeSample-Video-Image-PDF/blob/main/screenshots/image_viewer.png)
-![Viewer PDF](https://github.com/MALPV/CodeSample-Video-Image-PDF/blob/main/screenshots/pdf_viewer.png)
+![Viewer Video](https://github.com/MALPV/CodeSample-Video-Image-PDF/blob/master/screenshots/video_viewer.png)
+![Viewer Image](https://github.com/MALPV/CodeSample-Video-Image-PDF/blob/master/screenshots/image_viewer.png)
+![Viewer PDF](https://github.com/MALPV/CodeSample-Video-Image-PDF/blob/master/screenshots/pdf_viewer.png)
 
 ## Construido con 🛠️
 
