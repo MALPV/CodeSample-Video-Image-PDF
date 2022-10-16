@@ -1,4 +1,4 @@
-package cl.malpv.aplicaciones.video_image_pdf
+package cl.malpv.aplicaciones.video_image_pdf.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
