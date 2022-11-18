@@ -30,8 +30,8 @@ class MainActivity : ComponentActivity() {
                 ) {
                     ContentViewerScreen(
                         title = "Video View Example",
-                        urlContent = urlExamplePDF,
-                        viewerType = ViewerType.PDF
+                        urlContent = urlExampleVideo,
+                        viewerType = ViewerType.VIDEO
                     )
                 }
             }
