@@ -30,8 +30,8 @@ class MainActivity : ComponentActivity() {
                 ) {
                     ContentViewerScreen(
                         title = "Video View Example",
-                        urlContent = urlExampleVideo,
-                        viewerType = ViewerType.VIDEO
+                        urlContent = urlExamplePDF,
+                        viewerType = ViewerType.PDF
                     )
                 }
             }
@@ -67,7 +67,8 @@ fun ContentViewerScreen(
                 PDFViewerScreen(
                     modifier = Modifier
                         .align(Alignment.TopCenter)
-                        .fillMaxSize(),
+                        .fillMaxSize()
+                        .padding(top = 16.dp),
                     url = urlContent
                 )
             }
@@ -80,7 +81,7 @@ fun ContentViewerScreen(
                 .align(Alignment.TopCenter)
                 .fillMaxWidth()
                 .background(color = Color.Black)
-                .padding(14.dp)
+                .padding(16.dp)
         )
 
     }

@@ -14,6 +14,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/064ad44d5507381ef62fdf95c71cbe6c/transformed/activity-compose-1.3.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0540142831fd42f5451f669c5c00111a/transformed/activity-ktx-1.3.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/16a50826536a0e8530280ee3768630d5/transformed/lifecycle-runtime-ktx-2.3.1-api.jar</arg>
